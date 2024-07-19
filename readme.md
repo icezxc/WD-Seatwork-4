@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- This project showcases diverse designs of web page headers and footers using HTML and CSS. By exploring visual effects, layouts, and container manipulations, it demonstrates the creative potential for enhancing these crucial page elements. The goal is to inspire web designers to push the boundaries of header and footer design.
+ This project showcases diverse designs of web page headers and footers using HTML and CSS.
 </div>
 
 <br />
@@ -55,9 +55,7 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+ This project showcases diverse designs of web page headers and footers using HTML and CSS. By exploring visual effects, layouts, and container manipulations, it demonstrates the creative potential for enhancing these crucial page elements. The goal is to inspire web designers to push the boundaries of header and footer design.
 
 Guiding Question:
 - What is the project
