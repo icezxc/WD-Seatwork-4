@@ -57,12 +57,6 @@
 
  This project showcases diverse designs of web page headers and footers using HTML and CSS. By exploring visual effects, layouts, and container manipulations, it demonstrates the creative potential for enhancing these crucial page elements. The goal is to inspire web designers to push the boundaries of header and footer design.
 
-Guiding Question:
-- What is the project
-- What is the purpose
-- What are key components
-- What technology used and how it is used
-
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
